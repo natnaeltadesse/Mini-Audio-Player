@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fream:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="fream.jar">
+      <element id="module-output" name="fream" />
+    </root>
+  </artifact>
+</component>
